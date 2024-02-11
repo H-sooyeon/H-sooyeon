@@ -22,8 +22,6 @@ While working on the project with various people, I had an attitude to challenge
   <img src="https://img.shields.io/badge/Java-176E88?style=flat-square&logo=Java&logoColor=white"/>
 </div><br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-sooyeon)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### 📞 Contact 📞
 
