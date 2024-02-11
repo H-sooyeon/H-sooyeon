@@ -23,7 +23,6 @@ While working on the project with various people, I had an attitude to challenge
 </div><br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-sooyeon)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-sooyeon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📞 Contact 📞
