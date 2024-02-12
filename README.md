@@ -1,6 +1,6 @@
 ## Hi there! I'm Hwang SooYeon👋
 
-I'm a wep frontend developer using react, vue.js 🚀<br>
+I'm a web frontend developer using react, vue.js 🚀<br>
 I like to create a service that connect people.🧑‍🤝‍🧑<br>
 When working on one project, I think of UI, and UX and try to provide services that can be convenient and comfortable for users. 💚 <br>
 
