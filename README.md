@@ -8,7 +8,7 @@ When working on one project, I think of UI, and UX and try to provide services t
 While working on the project with various people, I had an attitude to challenge and enjoy it first rather than being afraid of what I didn't try.🔥
 <br><br>
 
-### 💻 Once I've used 💻
+### 💻 Things I've used 💻
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
