@@ -1,14 +1,22 @@
-## Hi there! I'm Hwang SooYeon👋
+## Hwang SooYeon
 
-I'm a web frontend developer using react, vue.js 🚀<br>
-I like to create a service that connect people.🧑‍🤝‍🧑<br>
-When working on one project, I think of UI, and UX and try to provide services that can be convenient and comfortable for users. 💚 <br>
+I'm a web frontend developer using react.<br>
 
-😆 I hope to develop a service that makes people laugh. 😆<br>
-While working on the project with various people, I had an attitude to challenge and enjoy it first rather than being afraid of what I didn't try.🔥
-<br><br>
+- I interested in creating services that connect people. <br>
+- I strive to provide users with a high-quality user experience. <br>
 
-### 💻 Skill 💻
+I want to become a developer who not only collaborates technically with colleagues, but also overcomes difficult tasks and grows together.
+
+<!--
+contact
+<span style="display:flex; flex-direction:row;">
+    <a href="mailto:a96908798@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+    </a>
+</span><br>
+-->
+
+##  Skills 
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -19,14 +27,6 @@ While working on the project with various people, I had an attitude to challenge
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </div><br>
 
-
-### 📞 Contact 📞
-
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:a96908798@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-    </a>
-</div><br>
 
 <!--
 **H-sooyeon/H-sooyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
